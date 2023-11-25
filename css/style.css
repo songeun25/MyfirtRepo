@@ -151,3 +151,14 @@ main .tit {
   border-radius: 20px;
   box-shadow: 0 4px 0px rgba(0, 0, 0, 0.2);
 }
+
+footer {
+  border-top: 1px soild #8d9299;
+  width: calc(100% - 20px);
+  margin: auto;
+  height: 72px;
+  color: #8d9299;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
